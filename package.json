@@ -1,18 +1,18 @@
 {
-  "name": "grunt-contrib-compass",
+  "name": "grunt-adam-compass",
   "description": "Compile Sass to CSS using Compass",
-  "version": "0.7.0",
-  "homepage": "https://github.com/gruntjs/grunt-contrib-compass",
+  "version": "0.7.1",
+  "homepage": "https://github.com/adamquadmon/grunt-contrib-compass",
   "author": {
     "name": "Grunt Team",
     "url": "http://gruntjs.com/"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gruntjs/grunt-contrib-compass.git"
+    "url": "git://github.com/adamquadmon/grunt-contrib-compass.git"
   },
   "bugs": {
-    "url": "https://github.com/gruntjs/grunt-contrib-compass/issues"
+    "url": "https://github.com/adamquadmon/grunt-contrib-compass/issues"
   },
   "licenses": [
     {

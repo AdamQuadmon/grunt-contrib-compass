@@ -16,13 +16,13 @@ module.exports = function (grunt) {
       cmd: args.shift(),
       args: args
     }, function (err, result, code) {
-      if (code === 127) {
-        grunt.warn(
-          'You need to have Ruby and Compass installed ' +
-          'and in your system PATH for this task to work. ' +
-          'More info: https://github.com/gruntjs/grunt-contrib-compass'
-        );
-      }
+//      if (code === 127) {
+//        grunt.warn(
+//          'You need to have Ruby and Compass installed ' +
+//          'and in your system PATH for this task to work. ' +
+//          'More info: https://github.com/gruntjs/grunt-contrib-compass'
+//        );
+//      }
 
       // `compass compile` exits with 1 and outputs "Nothing to compile"
       // on stderr when it has nothing to compile.
